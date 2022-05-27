@@ -5,7 +5,7 @@ a set of comfort tools just like my own pyjamas
 
 you can only have one active input per screen in renpy.
 
-rentry is designed to break that limit.
+rentry is designed to break that limit (well, not exactly, it cheats; it only generates those inputs automatically).
 
 https://user-images.githubusercontent.com/25763288/170662963-29a8fa09-5274-4724-978c-1f160b415460.mp4
 
